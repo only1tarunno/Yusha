@@ -1,22 +1,22 @@
 @font-face {
     font-family: zabal;
     font-weight: 400;
-    src: url(/css/zabal/ZabalDEMO-Regular.otf);
+    src: url(./css/zabal/ZabalDEMO-Regular.otf);
   }
 @font-face {
     font-family: zabal;
     font-weight: 500;
-    src: url(/css/zabal/ZabalDEMO-Medium.otf);
+    src: url(./css/zabal/ZabalDEMO-Medium.otf);
   }
 @font-face {
     font-family: zabal;
     font-weight: 700;
-    src: url(/css/zabal/ZabalDEMO-Bold.otf);
+    src: url(./css/zabal/ZabalDEMO-Bold.otf);
   }
 @font-face {
     font-family: zabal;
     font-weight: 800;
-    src: url(/css/zabal/ZabalDEMO-ExtraBold.otf);
+    src: url(./css/zabal/ZabalDEMO-ExtraBold.otf);
   }
 * {
     margin: 0;
